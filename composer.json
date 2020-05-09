@@ -1,5 +1,5 @@
 {
-    "name": "jadekun/sku",
+    "name": "xxs/sku",
     "description": "",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
@@ -7,8 +7,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "jade",
-            "email": "jade@likunit.com"
+            "name": "xxs",
+            "email": "550419038@qq.com"
         }
     ],
     "require": {
