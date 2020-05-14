@@ -25,6 +25,13 @@
     float: left;
 }
 
+.sku_attr_color_val_input{
+    margin-left: 10px;
+    margin-bottom: 5px;
+    width: 100px;
+    float: left;
+}
+
 .sku_warp .sku_attr_val_item .btn{
     float: left;
     border-radius: 0 !important;
