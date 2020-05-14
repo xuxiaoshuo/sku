@@ -30,6 +30,9 @@
                                         <div class="sku_attr_val_input">
                                             <input type="text" class="form-control">
                                         </div>
+                                        <div class="sku_attr_val_input">
+                                            <input type="text" class="form-control">
+                                        </div>
                                         <span class="btn btn-danger Js_remove_attr_val"><i
                                                 class="glyphicon glyphicon-remove"></i></span>
                                     </div>

@@ -37,6 +37,9 @@
         _this.warp.find('.sku_attr_key_val').on('click', '.Js_add_attr_val', function () {
             let html = '<div class="sku_attr_val_item">' +
                 '<div class="sku_attr_val_input">' +
+                '<input type="color" class="form-control">' +
+                '</div>' +
+                '<div class="sku_attr_val_input">' +
                 '<input type="text" class="form-control">' +
                 '</div>' +
                 '<span class="btn btn-danger Js_remove_attr_val"><i class="glyphicon glyphicon-remove"></i></span>' +
