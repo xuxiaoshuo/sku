@@ -36,9 +36,6 @@
         // 绑定属性值添加事件
         _this.warp.find('.sku_attr_key_val').on('click', '.Js_add_attr_val', function () {
             let html = '<div class="sku_attr_val_item">' +
-                '<div class="sku_attr_color_val_input">' +
-                '<input type="color" class="form-control">' +
-                '</div>' +
                 '<div class="sku_attr_val_input">' +
                 '<input type="text" class="form-control">' +
                 '</div>' +
@@ -60,9 +57,6 @@
                 '<td>' +
                 '<div class="sku_attr_val_warp">' +
                 '<div class="sku_attr_val_item">' +
-                '<div class="sku_attr_color_val_input">' +
-                '<input type="color" class="form-control">' +
-                '</div>' +
                 '<div class="sku_attr_val_input">' +
                 '<input type="text" class="form-control">' +
                 '</div>' +
