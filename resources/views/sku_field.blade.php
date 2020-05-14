@@ -27,9 +27,6 @@
                             <td>
                                 <div class="sku_attr_val_warp">
                                     <div class="sku_attr_val_item">
-                                        <div class="sku_attr_color_val_input">
-                                            <input type="color" class="form-control">
-                                        </div>
                                         <div class="sku_attr_val_input">
                                             <input type="text" class="form-control">
                                         </div>
